@@ -1,13 +1,11 @@
 <div align=center><h1>👋introduction</h1></div>
 <div align=center>
   Hi there, i'm seongwon. i'm a Backend Developer
+  <br/>
   I usually do web development with spring
+  <br/>
   Have a good time on my repo
 </div>
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswdevsw98%2Fswdevsw98.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **swdevsw98/swdevsw98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
