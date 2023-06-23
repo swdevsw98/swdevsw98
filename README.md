@@ -1,5 +1,9 @@
-### Hi there, i'm seongwon
-### i'm a Backend Developer
+<div align=center><h1>👋introduction</h1></div>
+<div align=center>
+  Hi there, i'm seongwon. i'm a Backend Developer
+  I usually do web development with spring
+  Have a good time on my repo
+</div>
 
 
 
