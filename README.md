@@ -7,6 +7,7 @@
   Have a good time on my repo
 </div>
 
+<div align=center><h1>Tech Stack</h1></div>
 <!--
 **swdevsw98/swdevsw98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
